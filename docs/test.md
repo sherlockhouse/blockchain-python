@@ -1,3 +1,5 @@
+# Core
+
 ## Blockchain
 
 Let's now turn our attention from the world state to the blockchain. Whereas the
